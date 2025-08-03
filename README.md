@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a full-stack web application that scrapes product information from [Croma's Televisions & Accessories](https://www.croma.com/televisions-accessories/c/997) page, stores the data in Redis, and displays it on a clean, responsive web interface. I completed tje unfinished parts as an assignment for Adeptmind to demonstrate my full-stack development capabilities.
+This project is a full-stack web application that scrapes product information from [Croma's Televisions & Accessories](https://www.croma.com/televisions-accessories/c/997) page, stores the data in Redis, and displays it on a clean, responsive web interface.
 
 
 
