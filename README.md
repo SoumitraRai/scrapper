@@ -129,11 +129,6 @@ The application follows a standard client-server architecture:
 - The scraper only extracts a subset of product information (title, prices, discount percentage)
 - There's no direct link back to the Croma product pages
 
-## Acknowledgments
-
-- This project was created as part of an assignment for Adeptmind's Full-Stack Internship program
-- Special thanks to the AdeptMind Team for providing me such an opportunity
-
 ## Code Structure
 
 ```
